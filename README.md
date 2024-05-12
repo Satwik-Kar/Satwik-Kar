@@ -2,7 +2,7 @@
 
 ### 🌱 I’m currently pursuing BTECH in Computer Science and Engineering.
 - 😄 Pronouns: HE/HIM
-### Contact me
+### Contact me? Then click one of these or two! 
 <p>
    <a href = "mailto:satwik.k.2000@gmail.com">  
       <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-white?logo=gmail"/> 
@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-white?logo=kotlin">
+
 </p>
 
 ### Database Skills
