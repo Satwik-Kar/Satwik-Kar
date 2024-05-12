@@ -1,9 +1,10 @@
 ### Radhe Radhe...🦚
-### Hey there! I am ***Satwik***👋
+<h1> Hey there! I am <i>Satwik</i>👋</h1>
 
 ### 🌱 I’m currently pursuing B.TECH in Computer Science and Engineering.
 - 😄 Pronouns: HE/HIM
-
+### Portfolio
+[MyPortfolio](https://satwik-kar.github.io/MyPortfolio/)
 ### Programming Skills
 <p>
    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -41,7 +42,7 @@
     <img alt="PyCharm" src="https://img.shields.io/badge/IDE-PyCharm-darkgreen?logo=pycharm">
 
 </p>
-### Contact me? Then click one of these or two !  
+<h1> Contact me? Then click one of these or two !  </h1>
 <p>
    <a href = "mailto:satwik.k.2000@gmail.com">  
       <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-white?logo=gmail"/> 
