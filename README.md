@@ -41,7 +41,7 @@
     <img alt="PyCharm" src="https://img.shields.io/badge/IDE-PyCharm-darkgreen?logo=pycharm">
 
 </p>
-<b> Contact me? Then click one of these or two ! </b>
+### Contact me? Then click one of these or two !  
 <p>
    <a href = "mailto:satwik.k.2000@gmail.com">  
       <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-white?logo=gmail"/> 
