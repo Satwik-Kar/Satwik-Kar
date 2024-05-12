@@ -1,27 +1,8 @@
-### Hi there! I am ***Satwik***👋
+### Radhe Radhe...🦚
+### Hey there! I am ***Satwik***👋
 
-### 🌱 I’m currently pursuing BTECH in Computer Science and Engineering.
+### 🌱 I’m currently pursuing B.TECH in Computer Science and Engineering.
 - 😄 Pronouns: HE/HIM
-### Contact me? Then click one of these or two! 
-<p>
-   <a href = "mailto:satwik.k.2000@gmail.com">  
-      <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-white?logo=gmail"/> 
-   </a>
-   <a href = "www.linkedin.com/in/satwik-kar-2a1a5b277">  
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"> 
-   </a>
-   <a href = "https://www.instagram.com/kar.satwik">
-       <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-white?logo=instagram"> 
-
-   </a>
-   <a href = "https://x.com/kar_satwik">
-       <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-white?logo=twitter"> 
-   </a>
-   <a href = "https://unstop.com/u/Satwik-Kar">
-    <img src = "https://media.licdn.com/dms/image/D560BAQHqqREuYOZewQ/company-logo_200_200/0/1701272685881/unstop_logo?e=2147483647&v=beta&t=efF1_moH1s14NtEtsF24X3AiXf5cXCZeDH_Sq13bSPQ" width = "30px" height = "30px"/>
-   </a>
- 
-</p>
 
 ### Programming Skills
 <p>
@@ -60,5 +41,27 @@
     <img alt="PyCharm" src="https://img.shields.io/badge/IDE-PyCharm-darkgreen?logo=pycharm">
 
 </p>
-
+<b> Contact me? Then click one of these or two ! </b>
+<p>
+   <a href = "mailto:satwik.k.2000@gmail.com">  
+      <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-white?logo=gmail"/> 
+   </a>
+   
+   <a href = "www.linkedin.com/in/satwik-kar-2a1a5b277">  
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"> 
+   </a>
+   
+   <a href = "https://www.instagram.com/kar.satwik">
+       <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-white?logo=instagram">
+   </a>
+   
+   <a href = "https://x.com/kar_satwik">
+       <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-white?logo=twitter"> 
+   </a>
+   
+   <a href = "https://unstop.com/u/Satwik-Kar">
+    <img src = "https://media.licdn.com/dms/image/D560BAQHqqREuYOZewQ/company-logo_200_200/0/1701272685881/unstop_logo?e=2147483647&v=beta&t=efF1_moH1s14NtEtsF24X3AiXf5cXCZeDH_Sq13bSPQ" width = "30px" height = "30px"/>
+   </a>
+ 
+</p>
  
